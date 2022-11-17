@@ -6,6 +6,8 @@ echo "JK : Laki-laki<br>";
 echo "Alamat : Ds. Rancamanyar<br>";
 echo "Agama : Islam<br>";
 
+$a;
+
 /* Komentar */
 // Komentar
 
